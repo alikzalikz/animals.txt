@@ -1,9 +1,8 @@
-cats
-dogs
-cows
-====
-pets names 
-cats vanil
-dogs barfi 
-cows lili
+
+===========================================================================
+pets names :
+
+cat: vanil
+dog: barfi 
+cow: lili
 
