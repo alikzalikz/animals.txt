@@ -3,6 +3,5 @@
 pets names :
 
 cat: vanil
-dog: barfi 
-cow: lili
+
 
